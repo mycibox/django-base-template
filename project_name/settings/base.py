@@ -54,7 +54,7 @@ INSTALLED_APPS = (
 
     # Application base, containing global templates.
     'base',
-
+    'django_jenkins',
     # Local apps, referenced via appname
 )
 
