@@ -27,6 +27,7 @@ python-memcached
 
 # Admin
 django-debug-toolbar
+django-jenkins==0.15.0
 
 # Migrations
 South
